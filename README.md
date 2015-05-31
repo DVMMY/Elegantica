@@ -1,5 +1,5 @@
 # Elegantica
-HTML and CSS files created from PSD file.
+Webpage created from PSD file.
 
 Not yet complete.
 
